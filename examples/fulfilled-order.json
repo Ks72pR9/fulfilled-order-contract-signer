@@ -1,0 +1,16 @@
+{
+  "order_id": "ord_1042",
+  "customer_name": "Avery Chen",
+  "customer_email": "avery@example.com",
+  "currency": "usd",
+  "items": [
+    {"sku": "desk-lamp", "name": "Adjustable desk lamp", "quantity": 1, "unit_price_cents": 8900}
+  ],
+  "fulfillment": "fulfilled",
+  "receipt_number": "rcpt_1042",
+  "updates": [
+    {"kind": "checkout_accepted", "occurred_at": "2026-08-12T09:10:00Z"},
+    {"kind": "fulfillment_confirmed", "occurred_at": "2026-08-13T16:30:00Z"},
+    {"kind": "receipt_issued", "occurred_at": "2026-08-13T16:31:00Z"}
+  ]
+}
